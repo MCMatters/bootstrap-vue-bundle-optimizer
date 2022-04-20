@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "bootstrap-vue-bundle-optimizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dmitry Borzyonok <dima.matters@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.17.9",
+    "@vue/compiler-dom": "^3.2.33",
+    "param-case": "^3.0.4",
+    "pascal-case": "^3.1.2"
+  }
+}
